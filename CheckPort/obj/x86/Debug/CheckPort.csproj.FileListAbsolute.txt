@@ -1,0 +1,11 @@
+F:\临时项目\C#O\20121115即时通讯测试\CheckPort\CheckPort\bin\Debug\CheckPort.pdb
+F:\临时项目\C#O\20121115即时通讯测试\CheckPort\CheckPort\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\临时项目\C#O\20121115即时通讯测试\CheckPort\CheckPort\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\临时项目\C#O\20121115即时通讯测试\CheckPort\CheckPort\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\临时项目\C#O\20121115即时通讯测试\CheckPort\CheckPort\bin\Debug\CheckPort.dll
+F:\临时项目\C#O\20121115即时通讯测试\CheckPort\CheckPort\obj\x86\Debug\CheckPort2.Form1.resources
+F:\临时项目\C#O\20121115即时通讯测试\CheckPort\CheckPort\bin\Debug\CheckPort1.exe
+F:\临时项目\C#O\20121115即时通讯测试\CheckPort\CheckPort\bin\Debug\CheckPort1.pdb
+F:\临时项目\C#O\20121115即时通讯测试\CheckPort\CheckPort\obj\x86\Debug\CheckPort1.Properties.Resources.resources
+F:\临时项目\C#O\20121115即时通讯测试\CheckPort\CheckPort\obj\x86\Debug\CheckPort1.exe
+F:\临时项目\C#O\20121115即时通讯测试\CheckPort\CheckPort\obj\x86\Debug\CheckPort1.pdb
